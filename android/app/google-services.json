@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314776186175",
+    "project_id": "mylogintestid",
+    "storage_bucket": "mylogintestid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314776186175:android:d9c789bab8e024fddbf78a",
+        "android_client_info": {
+          "package_name": "com.example.login_blocs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5uw_GaFkKFuMve8QRBHrDGFlXNaSyN24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
