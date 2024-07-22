@@ -2,8 +2,8 @@
 
 import 'auth_event.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'auth_state.dart';
+import 'package:login_blocs/repository/auth_repo.dart';
 
 
 class AuthBloc extends Bloc<AuthEvent, AuthState> {

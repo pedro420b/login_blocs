@@ -4,6 +4,7 @@ import 'package:login_blocs/bloc/auth/auth_bloc.dart';
 import 'package:login_blocs/bloc/auth/auth_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:login_blocs/pages/home_page.dart';
 
 import '../bloc/auth/auth_event.dart';
 import 'signin_page.dart';
@@ -203,3 +204,4 @@ class _SignUpState extends State<SignUp> {
     );
   }
 }
+
